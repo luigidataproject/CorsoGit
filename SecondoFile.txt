@@ -1,1 +1,2 @@
+Questo hotfix risolve il problema del cliente.
 Ho risolto la issues 53 con questa linea di codice.
