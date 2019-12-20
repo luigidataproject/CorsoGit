@@ -1,3 +1,4 @@
 Questo risolve il bug mortale.
 Ho risolto la issues 53 con questa linea di codice.
 Produco codice per la issue 53.
+Questo hotfix risolve il problema del cliente.
